@@ -1,0 +1,17 @@
+{
+  "name": "hb_cloud_file_generator",
+  "version": "1.0.0",
+  "description": "慧脑云3.0平台组件模板代码生成工具",
+  "main": "file.js",
+  "bin": {
+    "hb": "./file.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "file_generator"
+  ],
+  "author": "ZhouLinxiang",
+  "license": "ISC"
+}
